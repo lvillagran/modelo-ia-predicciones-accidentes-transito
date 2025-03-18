@@ -67,3 +67,11 @@ Si deseas contribuir, por favor sigue estos pasos:
 3. Realiza tus cambios y haz commit (`git commit -m 'Descripción del cambio'`)
 4. Sube los cambios (`git push origin feature-nueva`)
 5. Abre un Pull Request
+
+# 🚧🚨ATENCIÓN:⛔
+# 🔧🔨🕜 ⚙ 👉 leviDev trabajando...
+
+## Autor:
+<span style="color:DodgerBlue">**Leonardo Villagran**</span> | <span style="color:yellow">**le**</span><span style="color:DodgerBlue">**vi**</span><span style="color:red">**Dev**</span>
+
+- [LinkedIn] https://www.linkedin.com/in/lvillagrans
